@@ -45,7 +45,6 @@ $ksu_supported || abort "  -> Non-GKI device, abort."
 
 ui_print "Paradise Kernel by Cycle1337"
 ui_print "Telegram: t.me/Cycle1337"
-ui_print "Features: KPM, Fengchi Kernel(if available), O2, lz4kd/lz4 zram"
 ui_print " "
 ui_print "Flashing..."
 
