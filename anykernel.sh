@@ -58,4 +58,4 @@ fi
 
 
 sleep 3
-am start -a android.intent.action.VIEW -d tg://resolve?domain=Cycle1337 >/dev/null 2>&1 || true
+am start -a android.intent.action.VIEW -d tg://resolve?domain=ParadiseKernel >/dev/null 2>&1 || true
