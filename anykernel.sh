@@ -44,7 +44,7 @@ ui_print "  -> ksu_supported: $ksu_supported"
 $ksu_supported || abort "  -> Non-GKI device, abort."
 
 ui_print "Paradise Kernel by Cycle1337"
-ui_print "Telegram: t.me/Cycle1337"
+ui_print "Telegram: t.me/ParadiseKernel"
 ui_print " "
 ui_print "Flashing..."
 
@@ -58,4 +58,4 @@ fi
 
 
 sleep 3
-am start -a android.intent.action.VIEW -d tg://resolve?domain=ParadiseKernel >/dev/null 2>&1 || true
+am start -a android.intent.action.VIEW -d https://share.note.youdao.com/s/bh8Bg6gd >/dev/null 2>&1 || true
